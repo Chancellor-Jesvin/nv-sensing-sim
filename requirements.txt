@@ -3,3 +3,5 @@ scipy
 matplotlib
 qutip
 jupyter
+simos==0.2.3
+sympy==1.14.0
